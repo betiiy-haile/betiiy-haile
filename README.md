@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betiiy-haile&label=Profile%20views&color=0e75b6&style=flat" alt="betiiy-haile" /> </p>
 
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/betiiy-haile](https://github.com/betiiy-haile)
 
 - 💬 Ask me about **React, NextJs**
